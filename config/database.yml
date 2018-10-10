@@ -16,10 +16,10 @@ development:
 production:
   adapter: postgresql
   encoding: unicode
-  database: postgres
+  database: d9bgev5qisrh2h
   pool: 5
-  username:
-  password:
+  username: bgiqzmezkykoaj
+  password: 0aace18def5cf6d5d21ffaad6d5496e56e1eb2de05304f6f8b5ff4c9844f8f7b
   timeout: 5000
 
 
