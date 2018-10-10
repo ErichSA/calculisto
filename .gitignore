@@ -18,7 +18,7 @@
 !/tmp/.keep
 
 /db/schema.rb
-.idea/.generators
+.idea
 
 # Ignore Byebug command history file.
 .byebug_history
